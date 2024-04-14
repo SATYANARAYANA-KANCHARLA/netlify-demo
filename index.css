@@ -1,0 +1,29 @@
+body{
+background-color: lightcoral;
+
+}
+
+u{
+    color: blue;
+}
+
+.box-part{
+    background-color: white;
+    padding: 50px 5px;
+    margin: 50px 1px;
+}
+
+.fa{
+    color: rgb(21, 21, 202);
+}
+
+p{
+margin: 10px;
+font-size: 12px;
+}
+
+.box{
+
+    padding: 60px 1px;
+
+}
